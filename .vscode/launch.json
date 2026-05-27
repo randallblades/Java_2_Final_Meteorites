@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Final Project - Meteorites_cc0c5c98"
+        },
+        {
+            "type": "java",
+            "name": "Unit 6 Passphrase Generator",
+            "request": "launch",
+            "mainClass": "PassphraseMain",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
